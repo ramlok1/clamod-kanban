@@ -2,5 +2,9 @@
   "name": "kanban",
   "version": "0.4.0",
   "description": "Side pane with a live kanban (Pending / In progress / Done) of the milestones Claude is working through, with parallel subagents, model and effort",
+  "author": {
+    "name": "ramlok1"
+  },
+  "repository": "https://github.com/ramlok1/clamod-kanban",
   "types": "./types/index.d.ts"
 }

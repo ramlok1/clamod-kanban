@@ -16,7 +16,7 @@ The interface text is in Spanish.
 From a Claude Code terminal session:
 
 ```
-/plugin install kanban --marketplace <owner>/claude-kanban
+/plugin install kanban --marketplace ramlok1/clamod-kanban
 ```
 
 Answer `y` to add the marketplace, then pick the user scope.
@@ -24,8 +24,8 @@ Answer `y` to add the marketplace, then pick the user scope.
 Or from any shell (also works for the Claude desktop app's Code tab, which loads plugins installed at the user scope):
 
 ```bash
-claude plugin marketplace add <owner>/claude-kanban
-claude plugin install kanban@claude-kanban
+claude plugin marketplace add ramlok1/clamod-kanban
+claude plugin install kanban@clamod-kanban
 ```
 
 Start a new session afterwards. If the pane does not show on its own (narrow window), run `/kanban`.

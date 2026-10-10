@@ -1,5 +1,6 @@
 {
-  "name": "claude-kanban",
-  "owner": { "name": "claude-kanban" },
+  "name": "clamod-kanban",
+  "description": "A live kanban pane for Claude Code: milestones, parallel subagents, model and effort",
+  "owner": { "name": "ramlok1" },
   "plugins": [{ "name": "kanban", "source": "./" }]
 }
